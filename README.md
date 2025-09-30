@@ -6,13 +6,10 @@
 
 ## 👥 Integrantes del equipo
 
-| Nombre                               | Nº Carnet  |
-|--------------------------------------|------------|
-| Jeferson Edenilson Campos Rosales    | CR241530   |
-| José Manuel Reyes Echeverria         | RE242138   |
-| Mario Ernesto Meléndez Portillo      | MP240819   |
-| Danilo Antonio Martínez Miranda      | MM240370   |
+- Jeferson Edenilson Campos Rosales — **CR241530**  
+- José Manuel Reyes Echeverria — **RE242138**  
+- Mario Ernesto Meléndez Portillo — **MP240819**  
+- Danilo Antonio Martínez Miranda — **MM240370**  
 
 ---
-
 
